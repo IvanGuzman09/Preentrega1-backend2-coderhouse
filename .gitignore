@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -130,3 +131,9 @@ dist
 .pnp.*
 
 codigo guardado
+=======
+node_modules/
+.env.dev
+.env.prod
+errors.log
+>>>>>>> 6cf1ce80921e3d33801abd23073dbc77fa7b2b2c
